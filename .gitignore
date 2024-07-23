@@ -1,0 +1,31 @@
+# Coverage reports
+coverage
+
+# Dependency directory
+node_modules
+
+# Testing merge
+
+
+
+# Ignore built ts files
+dist/**/**.*
+
+package-lock.json
+
+logs
+*.log
+dist
+
+
+developernote
+
+node-v12.18.3-win-x64
+
+mailer.js
+logs/.d2da68f07ae73fd57a8650d26220f4b352ee4f82-audit.json
+package-lock.json
+
+config/
+
+.scannerwork/
